@@ -31,3 +31,11 @@ Se agrega la condición de que si el usuario no está logueado, solo podrá acce
 
 Se oculta la web que se utiliza como base (app.vue).
 Se finaliza el footer general de la web.
+
+Utilización :
+
+Accedemos al Frontend y utilizamos el comando : npm run serve
+De esta manera arrancaremos el frontend.
+
+Accedemos al Backend y utilizaremos el comando : nodemon
+De esta manera estaremos ejecutando el backend y que comunicará con el frontend y la base de datos.
